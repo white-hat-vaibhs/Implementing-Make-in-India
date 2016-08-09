@@ -5,3 +5,6 @@ This website will contain information about the initiative Make in India, all se
 1. Contribute an idea.
 2. Provide Funds to develop a project under any sector.
 3. Provide scholarships to deserving students who provide good ideas.
+4. Others yet to be desided.
+
+This project will be implemented using basic html, css , and php languages.
